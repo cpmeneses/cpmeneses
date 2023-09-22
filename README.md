@@ -1,7 +1,9 @@
 ### Hola Mundo! 👋
 
 👨‍💻 Soy un desarrollador altamente motivado con habilidades en 📚 Full Stack y 🕹️ creación de videojuegos.
+
 🧑‍🎓 Graduado con distinción máxima de la Universidad de Chile.
+
 🌎 Estoy enfocado en llevar mi habilidad de creación de software desde Chile hacia el resto del mundo.
 
 Mi experiencia incluye:

@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola Mundo! 👋
+
+Soy un desarrollador altamente motivado con habilidades en Full Stack y creación de videojuegos, graduado con distinción máxima de la Universidad de Chile. Estoy enfocado en llevar mi habilidad de creación de software desde Chile hacia el resto del mundo. Mi experiencia incluye proyectos de juegos educativos, multijugador y en línea, así como proyectos de realidad aumentada.
 
 <!--
 **cpmeneses/cpmeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
